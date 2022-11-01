@@ -8,10 +8,11 @@ body {
 
 .principal {
     background: #CCCCCC;
+    padding: 30px;
 }
 
-h1 {
-    text-align:center
+.titulo-principal {
+    padding-left: 20px;
 }
 p {
     text-align:center
@@ -31,8 +32,20 @@ em strong {
 
 .beneficios {
     background: #FFFFFF;
+    padding: 20px;
 }
 
-h2 {
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.titulo-centralizado {
     text-align: center;
+}
+
+.imagembeneficios {
+    width: 50%;
 }
