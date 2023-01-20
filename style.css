@@ -108,6 +108,11 @@ form label, form legend {
     margin: 0 0 10px;
 }
 
+.form-contatos {
+    margin: 1em 20px;
+}
+
+
 .input-padrao {
     display:block;
     margin: 0 0 20px;
@@ -135,6 +140,10 @@ form label, form legend {
 .enviar:hover {
     background: darkorange;
     transform: scale(1.2);
+}
+
+.tablela-horarios {
+    margin: 1em 20px;
 }
 
 table {
