@@ -1,7 +1,6 @@
-## Nome do projeto
-Barbearia Alura 🧔
+## Barbearia Alura 🧔
 
-## Descrição do projeto
+#### Descrição do projeto
 Este projeto teve como objetivo aprender sobre HTML e CSS. 😀
 
 | :sparkles: Nome  | **Barbearia Alura**
@@ -9,6 +8,7 @@ Este projeto teve como objetivo aprender sobre HTML e CSS. 😀
 | :label: Tecnologias | HTML 5 e CSS 3
 | :rocket: URL       | [Código](https://github.com/adrianycmc/PagHtmlBarbearia)
 | :fire: Desafio     | [Barbearia Alura](https://adrianycmc.github.io/PagHtmlBarbearia/)
+| 🌐 Status | Finalizado
 
 ## Detalhes do projeto
 
