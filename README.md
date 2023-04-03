@@ -10,11 +10,9 @@ Este projeto teve como objetivo aprender sobre HTML e CSS. 😀
 | :rocket: URL       | [Código](https://github.com/adrianycmc/PagHtmlBarbearia)
 | :fire: Desafio     | [Barbearia Alura](https://adrianycmc.github.io/PagHtmlBarbearia/)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://github.com/adrianycmc/PagHtmlBarbearia/blob/main/banner.jpg?raw=true)
-
 ## Detalhes do projeto
 
 Este foi o meu primeiro projeto desenvolvendo uma página para Web (com versão mobile) utilizando HTML e CSS. 
 Sendo assim, pude iniciar a minha jornada em tecnologia com essas linguagens incríveis e presentes em diversas áreas do desenvolvimento.
 
+![Inserir um título (3)](https://user-images.githubusercontent.com/108768964/229606026-8d27ae6c-55f1-4e1d-ab1b-27e694deaccd.png)
