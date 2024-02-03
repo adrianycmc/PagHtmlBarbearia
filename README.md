@@ -25,7 +25,7 @@ Sendo assim, pude iniciar a minha jornada em tecnologia com essas linguagens inc
 
 ## 📫 Contribuindo 
 
-Para contribuir com Alura Plus, siga estas etapas:
+Para contribuir com a página da Barbearia, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
