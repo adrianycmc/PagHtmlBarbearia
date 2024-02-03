@@ -1,5 +1,5 @@
 <div align="center">
-<img height=300 src="https://user-images.githubusercontent.com/108768964/229606026-8d27ae6c-55f1-4e1d-ab1b-27e694deaccd.png" height=120px>
+<img src="https://user-images.githubusercontent.com/108768964/229606026-8d27ae6c-55f1-4e1d-ab1b-27e694deaccd.png">
 </div>
 
 # Barbearia
